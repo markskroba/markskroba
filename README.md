@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there 👋
+# Hi there 👋
 
 I'm Mark Skroba, a recent graduate from Saint Louis University with a strong passion for Software Engineering and Web Development. I specialize in backend development using Java and Node.js with TypeScript. I love building scalable and robust systems that solve real-world problems. With a solid foundation in software engineering principles and a knack for problem-solving, I enjoy exploring new technologies and frameworks to continuously improve my skills.
 
@@ -36,14 +36,15 @@ I'm Mark Skroba, a recent graduate from Saint Louis University with a strong pas
 ### Skills and Expertise
 Here are some of the key skills and technologies I bring to the table:
 
-- Backend Development: Proficient in Java and Node.js, with a focus on building reliable and efficient server-side applications.
-- Web Development: Experienced in developing web applications using modern frontend technologies like HTML5, CSS3, and JavaScript.
-- Frameworks and Libraries: Skilled in utilizing frameworks and libraries such as Spring Boot, Express.js, and Hibernate to accelerate development and enhance functionality.
-- Database Management: Knowledgeable in working with SQL and NoSQL databases, including MySQL, PostgreSQL, MongoDB, and Firebase.
-- API Development: Experienced in designing and implementing RESTful APIs, ensuring seamless integration between different system components.
-- Version Control: Familiar with Git and GitHub for efficient code management, collaboration, and version control.
-- Agile Methodologies: Experience working in agile development environments, utilizing methodologies like Scrum for efficient project management.
-- Problem-solving: Strong analytical and problem-solving skills, with a keen attention to detail and a drive to find optimal solutions.
+- **Backend Development**: Proficient in Java and Node.js, with a focus on building reliable and efficient server-side applications.
+- **Web Development**: Experienced in developing web applications using modern frontend technologies like HTML5, CSS3, and JavaScript.
+- **Frameworks and Libraries**: Skilled in utilizing frameworks and libraries such as Spring Boot, Express.js, and Hibernate to accelerate development and enhance functionality.
+- **Database Management**: Knowledgeable in working with SQL and NoSQL databases, including MySQL, PostgreSQL, MongoDB, and Firebase.
+- **API Development**: Experienced in designing and implementing RESTful APIs, ensuring seamless integration between different system components.
+- **Testing and Debugging**: Proficient in writing unit tests and performing debugging to ensure high-quality, bug-free code.
+- **Version Control**: Familiar with Git and GitHub for efficient code management, collaboration, and version control.
+- **Agile Methodologies**: Experience working in agile development environments, utilizing methodologies like Scrum for efficient project management.
+- **Problem-solving**: Strong analytical and problem-solving skills, with a keen attention to detail and a drive to find optimal solutions.
 
 Feel free to explore my GitHub repositories to see some of the projects I've worked on. I'm always excited to collaborate and contribute to meaningful software projects.
 
@@ -88,3 +89,9 @@ Feel free to explore my GitHub repositories to see some of the projects I've wor
 
 ### Currently Learning
 
+<div align="center">
+<img src="https://img.shields.io/badge/GraphQL-764ABC?style=for-the-badge&logo=graphql&logoColor=white" alt="graphql" />
+<img src="https://img.shields.io/badge/NestJS-D14836?style=for-the-badge&logo=nestjs&logoColor=white" alt="nestjs" />
+<img src="https://img.shields.io/badge/Prisma-000000?style=for-the-badge&logo=prisma&logoColor=white" alt="prisma"/>
+<img src="https://img.shields.io/badge/ChakraUI-298D46?style=for-the-badge&logo=chakraui&logoColor=white" alt="next"/>
+</div>
