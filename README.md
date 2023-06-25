@@ -39,7 +39,7 @@ Here are some of the key skills and technologies I bring to the table:
 - **Backend Development**: Proficient in Java and Node.js, with a focus on building reliable and efficient server-side applications.
 - **Web Development**: Experienced in developing web applications using modern frontend technologies like HTML5, CSS3, and JavaScript.
 - **Frameworks and Libraries**: Skilled in utilizing frameworks and libraries such as Spring Boot, Express.js, and Hibernate to accelerate development and enhance functionality.
-- **Database Management**: Knowledgeable in working with SQL and NoSQL databases, including MySQL, PostgreSQL, MongoDB, and Firebase.
+- **Database Management**: Knowledgeable in working with SQL and NoSQL databases, including MySQL, PostgreSQL, and MongoDB.
 - **API Development**: Experienced in designing and implementing RESTful APIs, ensuring seamless integration between different system components.
 - **Testing and Debugging**: Proficient in writing unit tests and performing debugging to ensure high-quality, bug-free code.
 - **Version Control**: Familiar with Git and GitHub for efficient code management, collaboration, and version control.
